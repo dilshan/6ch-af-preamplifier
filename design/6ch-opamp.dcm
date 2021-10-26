@@ -1,0 +1,18 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP +4.5V
+D Power symbol creates a global label with name "+1V35"
+K power-flag
+$ENDCMP
+#
+$CMP -4.5V
+D Power symbol creates a global label with name "-5V"
+K power-flag
+$ENDCMP
+#
+$CMP PT2258
+D 6-Channel Electronic Volume Controller IC
+F http://www.princeton.com.tw/Portals/0/Product/PT2258.pdf
+$ENDCMP
+#
+#End Doc Library
