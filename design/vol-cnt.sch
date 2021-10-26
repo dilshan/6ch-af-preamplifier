@@ -10,7 +10,7 @@ Rev "1.0.0"
 Comp "Dilshan R Jayakody"
 Comment1 "jayakody2000lk@gmail.com"
 Comment2 "http://jayakody2000lk.blogspot.com"
-Comment3 ""
+Comment3 "https://github.com/dilshan/6ch-af-preamplifier"
 Comment4 "Licensed under CERN-OHL-W Version 2.0"
 $EndDescr
 $Comp
