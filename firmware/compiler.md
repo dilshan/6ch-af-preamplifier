@@ -1,0 +1,1 @@
+To compile the firmware use [MPLAB X IDE](https://www.microchip.com/en-us/development-tools-tools-and-software/mplab-x-ide) version 5.5 or newer version with [MPLAB XC8](https://www.microchip.com/en-us/development-tools-tools-and-software/mplab-xc-compilers) version 2.32 or newer version.
