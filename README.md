@@ -8,15 +8,15 @@ This preamplifier consists of six *[TL074](https://octopart.com/tl074idt-stmicro
 
 The provided PCB design contains a preamplifier, buffer stages, digital volume control circuit, driver circuit, and power supply unit.
 
-The project was sponsored by *[PCBWay](https://www.pcbway.com/setinvite.aspx?inviteid=341430)*. The accurately configured PCB of this preamplifier can directly order from *PCBWay* through their website. The dimension of the PCB is 151.45 × 50.76mm.
+The project was sponsored by *[PCBWay](https://www.pcbway.com/setinvite.aspx?inviteid=341430)*. The accurately configured PCB of this preamplifier can directly [order from *PCBWay*](https://www.pcbway.com/project/shareproject/5_1_channel_audio_preamplifier.html) through their website. The dimension of the PCB is 151.45 × 50.76mm.
 
 This preamplifier is an open hardware project. All source codes, *KiCAD* design files, and compiled binaries are available at this repository.
 
-The complete documentation of this project is available in the [wiki](https://github.com/dilshan/6ch-af-preamplifier/wiki) section of this repository. The PCB *Gerber files* and compiled binaries are also available in the release section of this repository.
+The complete [documentation](https://github.com/dilshan/6ch-af-preamplifier/wiki) of this project is available in the [wiki](https://github.com/dilshan/6ch-af-preamplifier/wiki) section of this repository. The PCB *Gerber files* and compiled binaries are also available in the [release](https://github.com/dilshan/6ch-af-preamplifier/releases) section of this repository.
 
 All the content of this project are distributed under the terms of the following license:
 
 - Hardware License: [CERN-OHL-W 2.0](https://ohwr.org/cern_ohl_w_v2.txt)
 - Software License: [MIT](https://github.com/dilshan/6ch-af-preamplifier/blob/main/LICENSE)
-- Documentation License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+- [Documentation](https://github.com/dilshan/6ch-af-preamplifier/wiki) License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
